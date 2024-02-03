@@ -2,4 +2,4 @@
 str = "Python is an interpreted, interactive, object-oriented programming\
  language that combines remarkable power with very clear syntax"
 print(str[39:-63], end=' ')
-print(str[:6], end='\n')
+print("with "+str[:6], end='\n')
