@@ -1,1 +1,1 @@
-This is python-exceptions: classes
+"""This is python-exceptions: classes"""
